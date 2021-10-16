@@ -1,0 +1,1383 @@
+{
+    "metadata": {
+        "transaction_key": "AI3XrL+Vi0dHSsPF6bqrL3ZLEqRoR9htpCe+pEoDxssM2WuZeGJAyShw+dmS+rzN0nl24Q2s43QzPThslx4HWqFZKOE6mZigyVis+EAXmxCPZ5R+LjAoBE13hWpsKTTwsA4j0v3b2LhbDRenRGWnpwIcwfPe6aFa9u2oDxsV3rH960t+4vCCJ1Wb/n8ElUN9K1KTFFPSSfWqrOyNLjisENijb3EXYojsbIyiMXctWQD+LM6Fbm4PM7FwoGV+s81XMvzfHco9BvG06Ku8VNQwqzSXQr6qlGj3JcDAQWaZd4yHzQUMRiBnhY3SrkxAazL2XgFHYd1slDMf13Vgh0UJWe5iaS0x4lNS7reEww==",
+        "request_id": "2a5c0e99-adcd-46fa-b89b-4a4d06657e66",
+        "sha256": "6a7d98db8babaf70429d80e33b2dc81bc34ebd24bf3a141065ec6883ec696a88",
+        "created": "2021-10-16T00:48:09.667Z",
+        "duration": 96.563194,
+        "channels": 1,
+        "models": [
+            "41757536-6114-494d-83fd-c2694524d80b"
+        ]
+    },
+    "results": {
+        "channels": [
+            {
+                "alternatives": [
+                    {
+                        "transcript": "another big problem in the speech analytics space when customers first bring the software on is that they they are blown away by the fact that an engine can monitor hundreds of kpis right everything from my new compliance issues to you know human human interaction empathy measurements to upsell aptitude to closing aptitude they're hundreds literally of kpis that one could look at and the speech analytics companies have typically gone to the customer and really bang that trump we'll get all of these things that we're gonna help you keep an eye on the reality however is that a company even a contact center manager they can't keep track in their brain even if they have a report in front of of that many kpis mh and frankly it's overwhelming so what successful companies do is they bite off no more than they chew at any given time the reality is is you can only train a call center agent on a maximum of three skills at any given day right and by focusing on focusing on problem areas for a week for a month depending on how bad things are and then once you've mastered that skill to take a baseline of of your performance and move on to the next worst skill right is the way that companies succeed using this product",
+                        "confidence": 0.9918971,
+                        "words": [
+                            {
+                                "word": "another",
+                                "start": 0.33959904,
+                                "end": 0.839599,
+                                "confidence": 0.99965906
+                            },
+                            {
+                                "word": "big",
+                                "start": 0.89893866,
+                                "end": 1.3989387,
+                                "confidence": 0.99930644
+                            },
+                            {
+                                "word": "problem",
+                                "start": 1.6580424,
+                                "end": 2.1580424,
+                                "confidence": 0.99866736
+                            },
+                            {
+                                "word": "in",
+                                "start": 2.257335,
+                                "end": 2.4171462,
+                                "confidence": 0.9991905
+                            },
+                            {
+                                "word": "the",
+                                "start": 2.4171462,
+                                "end": 2.6568632,
+                                "confidence": 0.78912824
+                            },
+                            {
+                                "word": "speech",
+                                "start": 2.6568632,
+                                "end": 3.0963442,
+                                "confidence": 0.99995875
+                            },
+                            {
+                                "word": "analytics",
+                                "start": 3.0963442,
+                                "end": 3.4559197,
+                                "confidence": 0.92332786
+                            },
+                            {
+                                "word": "space",
+                                "start": 3.4559197,
+                                "end": 3.8154953,
+                                "confidence": 0.9982986
+                            },
+                            {
+                                "word": "when",
+                                "start": 4.614552,
+                                "end": 4.9341745,
+                                "confidence": 0.99864715
+                            },
+                            {
+                                "word": "customers",
+                                "start": 4.9341745,
+                                "end": 5.4341745,
+                                "confidence": 0.9966048
+                            },
+                            {
+                                "word": "first",
+                                "start": 5.4535613,
+                                "end": 5.6932783,
+                                "confidence": 0.96135664
+                            },
+                            {
+                                "word": "bring",
+                                "start": 5.6932783,
+                                "end": 5.8930426,
+                                "confidence": 0.9899367
+                            },
+                            {
+                                "word": "the",
+                                "start": 5.8930426,
+                                "end": 6.0928063,
+                                "confidence": 0.9869603
+                            },
+                            {
+                                "word": "software",
+                                "start": 6.0928063,
+                                "end": 6.5722404,
+                                "confidence": 0.9798436
+                            },
+                            {
+                                "word": "on",
+                                "start": 6.5722404,
+                                "end": 6.891863,
+                                "confidence": 0.99652964
+                            },
+                            {
+                                "word": "is",
+                                "start": 7.091627,
+                                "end": 7.331344,
+                                "confidence": 0.9960084
+                            },
+                            {
+                                "word": "that",
+                                "start": 7.331344,
+                                "end": 7.6509666,
+                                "confidence": 0.9964522
+                            },
+                            {
+                                "word": "they",
+                                "start": 7.6509666,
+                                "end": 8.150967,
+                                "confidence": 0.893754
+                            },
+                            {
+                                "word": "they",
+                                "start": 8.824085,
+                                "end": 9.302795,
+                                "confidence": 0.9918971
+                            },
+                            {
+                                "word": "are",
+                                "start": 9.302795,
+                                "end": 9.802795,
+                                "confidence": 0.9928846
+                            },
+                            {
+                                "word": "blown",
+                                "start": 10.100645,
+                                "end": 10.379892,
+                                "confidence": 0.9972422
+                            },
+                            {
+                                "word": "away",
+                                "start": 10.379892,
+                                "end": 10.699032,
+                                "confidence": 0.7253196
+                            },
+                            {
+                                "word": "by",
+                                "start": 10.699032,
+                                "end": 10.858602,
+                                "confidence": 0.99786526
+                            },
+                            {
+                                "word": "the",
+                                "start": 10.858602,
+                                "end": 11.058064,
+                                "confidence": 0.9980275
+                            },
+                            {
+                                "word": "fact",
+                                "start": 11.058064,
+                                "end": 11.297419,
+                                "confidence": 0.99995184
+                            },
+                            {
+                                "word": "that",
+                                "start": 11.297419,
+                                "end": 11.456989,
+                                "confidence": 0.9971373
+                            },
+                            {
+                                "word": "an",
+                                "start": 11.456989,
+                                "end": 11.776129,
+                                "confidence": 0.9929612
+                            },
+                            {
+                                "word": "engine",
+                                "start": 11.776129,
+                                "end": 12.276129,
+                                "confidence": 0.99702173
+                            },
+                            {
+                                "word": "can",
+                                "start": 12.494193,
+                                "end": 12.733548,
+                                "confidence": 0.9995956
+                            },
+                            {
+                                "word": "monitor",
+                                "start": 12.733548,
+                                "end": 13.233548,
+                                "confidence": 0.99829644
+                            },
+                            {
+                                "word": "hundreds",
+                                "start": 13.331935,
+                                "end": 13.831935,
+                                "confidence": 0.99778867
+                            },
+                            {
+                                "word": "of",
+                                "start": 13.970215,
+                                "end": 14.129785,
+                                "confidence": 0.9959644
+                            },
+                            {
+                                "word": "kpis",
+                                "start": 14.20957,
+                                "end": 14.70957,
+                                "confidence": 0.9969349
+                            },
+                            {
+                                "word": "right",
+                                "start": 15.446236,
+                                "end": 15.645699,
+                                "confidence": 0.9904952
+                            },
+                            {
+                                "word": "everything",
+                                "start": 16.26,
+                                "end": 16.76,
+                                "confidence": 0.99884087
+                            },
+                            {
+                                "word": "from",
+                                "start": 16.9,
+                                "end": 17.3,
+                                "confidence": 0.99926215
+                            },
+                            {
+                                "word": "my",
+                                "start": 17.3,
+                                "end": 17.54,
+                                "confidence": 0.83785295
+                            },
+                            {
+                                "word": "new",
+                                "start": 17.54,
+                                "end": 18.04,
+                                "confidence": 0.6337425
+                            },
+                            {
+                                "word": "compliance",
+                                "start": 18.14,
+                                "end": 18.5,
+                                "confidence": 0.9994324
+                            },
+                            {
+                                "word": "issues",
+                                "start": 18.5,
+                                "end": 19,
+                                "confidence": 0.9939474
+                            },
+                            {
+                                "word": "to",
+                                "start": 19.22,
+                                "end": 19.46,
+                                "confidence": 0.9958448
+                            },
+                            {
+                                "word": "you",
+                                "start": 19.54,
+                                "end": 19.619999,
+                                "confidence": 0.95242554
+                            },
+                            {
+                                "word": "know",
+                                "start": 19.619999,
+                                "end": 19.7,
+                                "confidence": 0.9852089
+                            },
+                            {
+                                "word": "human",
+                                "start": 19.98,
+                                "end": 20.48,
+                                "confidence": 0.9897016
+                            },
+                            {
+                                "word": "human",
+                                "start": 20.86,
+                                "end": 21.36,
+                                "confidence": 0.99926466
+                            },
+                            {
+                                "word": "interaction",
+                                "start": 21.5,
+                                "end": 21.86,
+                                "confidence": 0.99559504
+                            },
+                            {
+                                "word": "empathy",
+                                "start": 22.42,
+                                "end": 22.74,
+                                "confidence": 0.99316686
+                            },
+                            {
+                                "word": "measurements",
+                                "start": 22.74,
+                                "end": 23.24,
+                                "confidence": 0.98113596
+                            },
+                            {
+                                "word": "to",
+                                "start": 23.9,
+                                "end": 24.4,
+                                "confidence": 0.9966254
+                            },
+                            {
+                                "word": "upsell",
+                                "start": 24.46,
+                                "end": 24.96,
+                                "confidence": 0.96677536
+                            },
+                            {
+                                "word": "aptitude",
+                                "start": 25.63415,
+                                "end": 26.13415,
+                                "confidence": 0.976608
+                            },
+                            {
+                                "word": "to",
+                                "start": 26.552963,
+                                "end": 27.032345,
+                                "confidence": 0.99127626
+                            },
+                            {
+                                "word": "closing",
+                                "start": 27.032345,
+                                "end": 27.511726,
+                                "confidence": 0.9945298
+                            },
+                            {
+                                "word": "aptitude",
+                                "start": 27.511726,
+                                "end": 28.011726,
+                                "confidence": 0.9570714
+                            },
+                            {
+                                "word": "they're",
+                                "start": 29.229511,
+                                "end": 29.50915,
+                                "confidence": 0.82671124
+                            },
+                            {
+                                "word": "hundreds",
+                                "start": 29.50915,
+                                "end": 29.988531,
+                                "confidence": 0.8064116
+                            },
+                            {
+                                "word": "literally",
+                                "start": 29.988531,
+                                "end": 30.388016,
+                                "confidence": 0.98301363
+                            },
+                            {
+                                "word": "of",
+                                "start": 30.388016,
+                                "end": 30.467913,
+                                "confidence": 0.81068027
+                            },
+                            {
+                                "word": "kpis",
+                                "start": 30.54781,
+                                "end": 31.027191,
+                                "confidence": 0.99293315
+                            },
+                            {
+                                "word": "that",
+                                "start": 31.027191,
+                                "end": 31.147036,
+                                "confidence": 0.9968093
+                            },
+                            {
+                                "word": "one",
+                                "start": 31.147036,
+                                "end": 31.346779,
+                                "confidence": 0.6155633
+                            },
+                            {
+                                "word": "could",
+                                "start": 31.346779,
+                                "end": 31.506573,
+                                "confidence": 0.47865838
+                            },
+                            {
+                                "word": "look",
+                                "start": 31.506573,
+                                "end": 31.706314,
+                                "confidence": 0.9964234
+                            },
+                            {
+                                "word": "at",
+                                "start": 31.706314,
+                                "end": 32.185696,
+                                "confidence": 0.9984407
+                            },
+                            {
+                                "word": "and",
+                                "start": 33.15874,
+                                "end": 33.31826,
+                                "confidence": 0.98778844
+                            },
+                            {
+                                "word": "the",
+                                "start": 33.31826,
+                                "end": 33.55754,
+                                "confidence": 0.98270845
+                            },
+                            {
+                                "word": "speech",
+                                "start": 33.55754,
+                                "end": 34.036102,
+                                "confidence": 0.99997497
+                            },
+                            {
+                                "word": "analytics",
+                                "start": 34.036102,
+                                "end": 34.434902,
+                                "confidence": 0.9926778
+                            },
+                            {
+                                "word": "companies",
+                                "start": 34.434902,
+                                "end": 34.934902,
+                                "confidence": 0.99542785
+                            },
+                            {
+                                "word": "have",
+                                "start": 35.6313,
+                                "end": 35.95034,
+                                "confidence": 0.9971508
+                            },
+                            {
+                                "word": "typically",
+                                "start": 35.95034,
+                                "end": 36.45034,
+                                "confidence": 0.9974304
+                            },
+                            {
+                                "word": "gone",
+                                "start": 36.46878,
+                                "end": 36.628304,
+                                "confidence": 0.9962851
+                            },
+                            {
+                                "word": "to",
+                                "start": 36.628304,
+                                "end": 36.74794,
+                                "confidence": 0.9923671
+                            },
+                            {
+                                "word": "the",
+                                "start": 36.74794,
+                                "end": 36.907463,
+                                "confidence": 0.9861495
+                            },
+                            {
+                                "word": "customer",
+                                "start": 36.907463,
+                                "end": 37.38602,
+                                "confidence": 0.99710256
+                            },
+                            {
+                                "word": "and",
+                                "start": 37.38602,
+                                "end": 37.78482,
+                                "confidence": 0.91592926
+                            },
+                            {
+                                "word": "really",
+                                "start": 37.78482,
+                                "end": 38.223503,
+                                "confidence": 0.9960375
+                            },
+                            {
+                                "word": "bang",
+                                "start": 38.223503,
+                                "end": 38.502663,
+                                "confidence": 0.8930496
+                            },
+                            {
+                                "word": "that",
+                                "start": 38.502663,
+                                "end": 38.781822,
+                                "confidence": 0.9625627
+                            },
+                            {
+                                "word": "trump",
+                                "start": 38.781822,
+                                "end": 39.021103,
+                                "confidence": 0.61153406
+                            },
+                            {
+                                "word": "we'll",
+                                "start": 39.260384,
+                                "end": 39.45978,
+                                "confidence": 0.72726256
+                            },
+                            {
+                                "word": "get",
+                                "start": 39.45978,
+                                "end": 39.73894,
+                                "confidence": 0.68102324
+                            },
+                            {
+                                "word": "all",
+                                "start": 39.73894,
+                                "end": 39.97822,
+                                "confidence": 0.9981142
+                            },
+                            {
+                                "word": "of",
+                                "start": 39.97822,
+                                "end": 40.17762,
+                                "confidence": 0.98662794
+                            },
+                            {
+                                "word": "these",
+                                "start": 40.17762,
+                                "end": 40.456783,
+                                "confidence": 0.99638015
+                            },
+                            {
+                                "word": "things",
+                                "start": 40.456783,
+                                "end": 40.77582,
+                                "confidence": 0.99837756
+                            },
+                            {
+                                "word": "that",
+                                "start": 40.77582,
+                                "end": 40.895462,
+                                "confidence": 0.99297804
+                            },
+                            {
+                                "word": "we're",
+                                "start": 40.895462,
+                                "end": 41.015102,
+                                "confidence": 0.9510368
+                            },
+                            {
+                                "word": "gonna",
+                                "start": 41.015102,
+                                "end": 41.2145,
+                                "confidence": 0.9406418
+                            },
+                            {
+                                "word": "help",
+                                "start": 41.2145,
+                                "end": 41.374023,
+                                "confidence": 0.97582585
+                            },
+                            {
+                                "word": "you",
+                                "start": 41.374023,
+                                "end": 41.57342,
+                                "confidence": 0.99519783
+                            },
+                            {
+                                "word": "keep",
+                                "start": 41.57342,
+                                "end": 41.69306,
+                                "confidence": 0.99812645
+                            },
+                            {
+                                "word": "an",
+                                "start": 41.69306,
+                                "end": 41.85258,
+                                "confidence": 0.8875132
+                            },
+                            {
+                                "word": "eye",
+                                "start": 41.85258,
+                                "end": 42.0121,
+                                "confidence": 0.9989022
+                            },
+                            {
+                                "word": "on",
+                                "start": 42.0121,
+                                "end": 42.09186,
+                                "confidence": 0.5876065
+                            },
+                            {
+                                "word": "the",
+                                "start": 42.864708,
+                                "end": 43.223946,
+                                "confidence": 0.9251995
+                            },
+                            {
+                                "word": "reality",
+                                "start": 43.223946,
+                                "end": 43.583187,
+                                "confidence": 0.9992047
+                            },
+                            {
+                                "word": "however",
+                                "start": 43.8626,
+                                "end": 44.3626,
+                                "confidence": 0.9772549
+                            },
+                            {
+                                "word": "is",
+                                "start": 44.54116,
+                                "end": 44.700825,
+                                "confidence": 0.9906943
+                            },
+                            {
+                                "word": "that",
+                                "start": 44.700825,
+                                "end": 44.82057,
+                                "confidence": 0.9982103
+                            },
+                            {
+                                "word": "a",
+                                "start": 44.82057,
+                                "end": 45.060066,
+                                "confidence": 0.8761177
+                            },
+                            {
+                                "word": "company",
+                                "start": 45.060066,
+                                "end": 45.560066,
+                                "confidence": 0.6581796
+                            },
+                            {
+                                "word": "even",
+                                "start": 45.978127,
+                                "end": 46.217617,
+                                "confidence": 0.97619843
+                            },
+                            {
+                                "word": "a",
+                                "start": 46.217617,
+                                "end": 46.4172,
+                                "confidence": 0.97278833
+                            },
+                            {
+                                "word": "contact",
+                                "start": 46.4172,
+                                "end": 46.816353,
+                                "confidence": 0.9991443
+                            },
+                            {
+                                "word": "center",
+                                "start": 46.816353,
+                                "end": 47.175594,
+                                "confidence": 0.9912766
+                            },
+                            {
+                                "word": "manager",
+                                "start": 47.175594,
+                                "end": 47.49492,
+                                "confidence": 0.9992275
+                            },
+                            {
+                                "word": "they",
+                                "start": 48.173485,
+                                "end": 48.49281,
+                                "confidence": 0.99247
+                            },
+                            {
+                                "word": "can't",
+                                "start": 48.49281,
+                                "end": 48.772217,
+                                "confidence": 0.9895426
+                            },
+                            {
+                                "word": "keep",
+                                "start": 48.772217,
+                                "end": 49.09154,
+                                "confidence": 0.99928397
+                            },
+                            {
+                                "word": "track",
+                                "start": 49.09154,
+                                "end": 49.370953,
+                                "confidence": 0.9988386
+                            },
+                            {
+                                "word": "in",
+                                "start": 49.370953,
+                                "end": 49.530613,
+                                "confidence": 0.98365337
+                            },
+                            {
+                                "word": "their",
+                                "start": 49.530613,
+                                "end": 50.0096,
+                                "confidence": 0.9991942
+                            },
+                            {
+                                "word": "brain",
+                                "start": 50.0096,
+                                "end": 50.448673,
+                                "confidence": 0.9984914
+                            },
+                            {
+                                "word": "even",
+                                "start": 50.448673,
+                                "end": 50.688168,
+                                "confidence": 0.99932516
+                            },
+                            {
+                                "word": "if",
+                                "start": 50.688168,
+                                "end": 50.807915,
+                                "confidence": 0.9974227
+                            },
+                            {
+                                "word": "they",
+                                "start": 50.807915,
+                                "end": 50.967575,
+                                "confidence": 0.9974706
+                            },
+                            {
+                                "word": "have",
+                                "start": 50.967575,
+                                "end": 51.04741,
+                                "confidence": 0.9858345
+                            },
+                            {
+                                "word": "a",
+                                "start": 51.04741,
+                                "end": 51.36673,
+                                "confidence": 0.992251
+                            },
+                            {
+                                "word": "report",
+                                "start": 51.36673,
+                                "end": 51.526394,
+                                "confidence": 0.9925722
+                            },
+                            {
+                                "word": "in",
+                                "start": 51.526394,
+                                "end": 51.72597,
+                                "confidence": 0.9966079
+                            },
+                            {
+                                "word": "front",
+                                "start": 51.72597,
+                                "end": 51.84572,
+                                "confidence": 0.9990471
+                            },
+                            {
+                                "word": "of",
+                                "start": 51.84572,
+                                "end": 51.965466,
+                                "confidence": 0.9403921
+                            },
+                            {
+                                "word": "of",
+                                "start": 52.619083,
+                                "end": 52.85856,
+                                "confidence": 0.9956189
+                            },
+                            {
+                                "word": "that",
+                                "start": 52.85856,
+                                "end": 53.018208,
+                                "confidence": 0.9993874
+                            },
+                            {
+                                "word": "many",
+                                "start": 53.018208,
+                                "end": 53.217766,
+                                "confidence": 0.99880373
+                            },
+                            {
+                                "word": "kpis",
+                                "start": 53.297592,
+                                "end": 53.797592,
+                                "confidence": 0.9952586
+                            },
+                            {
+                                "word": "mh",
+                                "start": 54.215576,
+                                "end": 54.375225,
+                                "confidence": 0.8740983
+                            },
+                            {
+                                "word": "and",
+                                "start": 54.534874,
+                                "end": 54.81426,
+                                "confidence": 0.9951243
+                            },
+                            {
+                                "word": "frankly",
+                                "start": 54.81426,
+                                "end": 55.053734,
+                                "confidence": 0.9995913
+                            },
+                            {
+                                "word": "it's",
+                                "start": 55.213383,
+                                "end": 55.713383,
+                                "confidence": 0.99134386
+                            },
+                            {
+                                "word": "overwhelming",
+                                "start": 55.772152,
+                                "end": 56.272152,
+                                "confidence": 0.9965689
+                            },
+                            {
+                                "word": "so",
+                                "start": 56.889698,
+                                "end": 57.389698,
+                                "confidence": 0.99598277
+                            },
+                            {
+                                "word": "what",
+                                "start": 57.48838,
+                                "end": 57.98838,
+                                "confidence": 0.99925584
+                            },
+                            {
+                                "word": "successful",
+                                "start": 58.246716,
+                                "end": 58.746716,
+                                "confidence": 0.9931825
+                            },
+                            {
+                                "word": "companies",
+                                "start": 58.765575,
+                                "end": 59.244522,
+                                "confidence": 0.9960228
+                            },
+                            {
+                                "word": "do",
+                                "start": 59.244522,
+                                "end": 59.523907,
+                                "confidence": 0.99923563
+                            },
+                            {
+                                "word": "is",
+                                "start": 59.523907,
+                                "end": 59.72347,
+                                "confidence": 0.9959229
+                            },
+                            {
+                                "word": "they",
+                                "start": 59.72347,
+                                "end": 59.962944,
+                                "confidence": 0.99157363
+                            },
+                            {
+                                "word": "bite",
+                                "start": 59.962944,
+                                "end": 60.202415,
+                                "confidence": 0.99875975
+                            },
+                            {
+                                "word": "off",
+                                "start": 60.202415,
+                                "end": 60.521713,
+                                "confidence": 0.9676043
+                            },
+                            {
+                                "word": "no",
+                                "start": 60.521713,
+                                "end": 60.721275,
+                                "confidence": 0.88708365
+                            },
+                            {
+                                "word": "more",
+                                "start": 60.721275,
+                                "end": 60.920837,
+                                "confidence": 0.99381256
+                            },
+                            {
+                                "word": "than",
+                                "start": 60.920837,
+                                "end": 61.080486,
+                                "confidence": 0.9679007
+                            },
+                            {
+                                "word": "they",
+                                "start": 61.080486,
+                                "end": 61.315002,
+                                "confidence": 0.92840964
+                            },
+                            {
+                                "word": "chew",
+                                "start": 61.614376,
+                                "end": 61.774044,
+                                "confidence": 0.4841118
+                            },
+                            {
+                                "word": "at",
+                                "start": 61.774044,
+                                "end": 61.933712,
+                                "confidence": 0.9960937
+                            },
+                            {
+                                "word": "any",
+                                "start": 61.933712,
+                                "end": 62.213127,
+                                "confidence": 0.9977731
+                            },
+                            {
+                                "word": "given",
+                                "start": 62.213127,
+                                "end": 62.572376,
+                                "confidence": 0.99956375
+                            },
+                            {
+                                "word": "time",
+                                "start": 62.572376,
+                                "end": 63.072376,
+                                "confidence": 0.99062353
+                            },
+                            {
+                                "word": "the",
+                                "start": 63.370712,
+                                "end": 63.690044,
+                                "confidence": 0.9985707
+                            },
+                            {
+                                "word": "reality",
+                                "start": 63.690044,
+                                "end": 64.04929,
+                                "confidence": 0.9996493
+                            },
+                            {
+                                "word": "is",
+                                "start": 64.04929,
+                                "end": 64.36863,
+                                "confidence": 0.9800376
+                            },
+                            {
+                                "word": "is",
+                                "start": 64.36863,
+                                "end": 64.5283,
+                                "confidence": 0.97508967
+                            },
+                            {
+                                "word": "you",
+                                "start": 64.5283,
+                                "end": 64.727875,
+                                "confidence": 0.99870574
+                            },
+                            {
+                                "word": "can",
+                                "start": 64.727875,
+                                "end": 64.92746,
+                                "confidence": 0.9991394
+                            },
+                            {
+                                "word": "only",
+                                "start": 64.92746,
+                                "end": 65.36655,
+                                "confidence": 0.99850935
+                            },
+                            {
+                                "word": "train",
+                                "start": 65.36655,
+                                "end": 65.4863,
+                                "confidence": 0.99908626
+                            },
+                            {
+                                "word": "a",
+                                "start": 65.4863,
+                                "end": 65.685875,
+                                "confidence": 0.99176
+                            },
+                            {
+                                "word": "call",
+                                "start": 65.685875,
+                                "end": 65.92538,
+                                "confidence": 0.9980988
+                            },
+                            {
+                                "word": "center",
+                                "start": 65.92538,
+                                "end": 66.24471,
+                                "confidence": 0.99868816
+                            },
+                            {
+                                "word": "agent",
+                                "start": 66.24471,
+                                "end": 66.74471,
+                                "confidence": 0.9923452
+                            },
+                            {
+                                "word": "on",
+                                "start": 66.80354,
+                                "end": 66.96321,
+                                "confidence": 0.99672395
+                            },
+                            {
+                                "word": "a",
+                                "start": 66.96321,
+                                "end": 67.28255,
+                                "confidence": 0.99500173
+                            },
+                            {
+                                "word": "maximum",
+                                "start": 67.28255,
+                                "end": 67.78255,
+                                "confidence": 0.9990613
+                            },
+                            {
+                                "word": "of",
+                                "start": 67.92121,
+                                "end": 68.40021,
+                                "confidence": 0.97773206
+                            },
+                            {
+                                "word": "three",
+                                "start": 68.40021,
+                                "end": 68.79938,
+                                "confidence": 0.99636036
+                            },
+                            {
+                                "word": "skills",
+                                "start": 68.79938,
+                                "end": 69.27837,
+                                "confidence": 0.9859599
+                            },
+                            {
+                                "word": "at",
+                                "start": 69.27837,
+                                "end": 69.43804,
+                                "confidence": 0.9961862
+                            },
+                            {
+                                "word": "any",
+                                "start": 69.43804,
+                                "end": 69.75738,
+                                "confidence": 0.9997023
+                            },
+                            {
+                                "word": "given",
+                                "start": 69.75738,
+                                "end": 70.25738,
+                                "confidence": 0.9990383
+                            },
+                            {
+                                "word": "day",
+                                "start": 70.39604,
+                                "end": 70.67546,
+                                "confidence": 0.99897254
+                            },
+                            {
+                                "word": "right",
+                                "start": 71.20884,
+                                "end": 71.70884,
+                                "confidence": 0.99415684
+                            },
+                            {
+                                "word": "and",
+                                "start": 73.201065,
+                                "end": 73.47998,
+                                "confidence": 0.9800071
+                            },
+                            {
+                                "word": "by",
+                                "start": 73.47998,
+                                "end": 73.79874,
+                                "confidence": 0.99943835
+                            },
+                            {
+                                "word": "focusing",
+                                "start": 73.79874,
+                                "end": 74.29874,
+                                "confidence": 0.99928695
+                            },
+                            {
+                                "word": "on",
+                                "start": 74.63547,
+                                "end": 75.13547,
+                                "confidence": 0.99949086
+                            },
+                            {
+                                "word": "focusing",
+                                "start": 76.03003,
+                                "end": 76.53003,
+                                "confidence": 0.998536
+                            },
+                            {
+                                "word": "on",
+                                "start": 76.78708,
+                                "end": 77.28708,
+                                "confidence": 0.9990283
+                            },
+                            {
+                                "word": "problem",
+                                "start": 77.38474,
+                                "end": 77.86288,
+                                "confidence": 0.96030265
+                            },
+                            {
+                                "word": "areas",
+                                "start": 77.86288,
+                                "end": 78.30117,
+                                "confidence": 0.9951304
+                            },
+                            {
+                                "word": "for",
+                                "start": 78.83501,
+                                "end": 78.91501,
+                                "confidence": 0.9705319
+                            },
+                            {
+                                "word": "a",
+                                "start": 78.91501,
+                                "end": 79.15501,
+                                "confidence": 0.9607602
+                            },
+                            {
+                                "word": "week",
+                                "start": 79.15501,
+                                "end": 79.65501,
+                                "confidence": 0.99673635
+                            },
+                            {
+                                "word": "for",
+                                "start": 80.23501,
+                                "end": 80.355,
+                                "confidence": 0.9497331
+                            },
+                            {
+                                "word": "a",
+                                "start": 80.355,
+                                "end": 80.59501,
+                                "confidence": 0.97583216
+                            },
+                            {
+                                "word": "month",
+                                "start": 80.59501,
+                                "end": 81.09501,
+                                "confidence": 0.95908123
+                            },
+                            {
+                                "word": "depending",
+                                "start": 81.315,
+                                "end": 81.55501,
+                                "confidence": 0.9998548
+                            },
+                            {
+                                "word": "on",
+                                "start": 81.55501,
+                                "end": 81.715004,
+                                "confidence": 0.99816376
+                            },
+                            {
+                                "word": "how",
+                                "start": 81.715004,
+                                "end": 82.035,
+                                "confidence": 0.9994197
+                            },
+                            {
+                                "word": "bad",
+                                "start": 82.035,
+                                "end": 82.395004,
+                                "confidence": 0.9998228
+                            },
+                            {
+                                "word": "things",
+                                "start": 82.395004,
+                                "end": 82.755005,
+                                "confidence": 0.99965847
+                            },
+                            {
+                                "word": "are",
+                                "start": 82.755005,
+                                "end": 83.255005,
+                                "confidence": 0.99887604
+                            },
+                            {
+                                "word": "and",
+                                "start": 83.87501,
+                                "end": 84.035,
+                                "confidence": 0.9911133
+                            },
+                            {
+                                "word": "then",
+                                "start": 84.035,
+                                "end": 84.23501,
+                                "confidence": 0.98956347
+                            },
+                            {
+                                "word": "once",
+                                "start": 84.23501,
+                                "end": 84.475006,
+                                "confidence": 0.9997023
+                            },
+                            {
+                                "word": "you've",
+                                "start": 84.475006,
+                                "end": 84.795006,
+                                "confidence": 0.5782453
+                            },
+                            {
+                                "word": "mastered",
+                                "start": 84.795006,
+                                "end": 85.27501,
+                                "confidence": 0.9522094
+                            },
+                            {
+                                "word": "that",
+                                "start": 85.27501,
+                                "end": 85.635,
+                                "confidence": 0.99716216
+                            },
+                            {
+                                "word": "skill",
+                                "start": 85.635,
+                                "end": 86.135,
+                                "confidence": 0.8751954
+                            },
+                            {
+                                "word": "to",
+                                "start": 86.635,
+                                "end": 86.71001,
+                                "confidence": 0.84844965
+                            },
+                            {
+                                "word": "take",
+                                "start": 86.89001,
+                                "end": 87.01001,
+                                "confidence": 0.9977075
+                            },
+                            {
+                                "word": "a",
+                                "start": 87.01001,
+                                "end": 87.21001,
+                                "confidence": 0.9654559
+                            },
+                            {
+                                "word": "baseline",
+                                "start": 87.21001,
+                                "end": 87.71001,
+                                "confidence": 0.8826581
+                            },
+                            {
+                                "word": "of",
+                                "start": 87.89001,
+                                "end": 88.130005,
+                                "confidence": 0.99573237
+                            },
+                            {
+                                "word": "of",
+                                "start": 88.130005,
+                                "end": 88.29001,
+                                "confidence": 0.93506426
+                            },
+                            {
+                                "word": "your",
+                                "start": 88.29001,
+                                "end": 88.65001,
+                                "confidence": 0.9987469
+                            },
+                            {
+                                "word": "performance",
+                                "start": 88.65001,
+                                "end": 89.15001,
+                                "confidence": 0.9989178
+                            },
+                            {
+                                "word": "and",
+                                "start": 89.490005,
+                                "end": 89.69001,
+                                "confidence": 0.99682224
+                            },
+                            {
+                                "word": "move",
+                                "start": 89.69001,
+                                "end": 89.93001,
+                                "confidence": 0.99961543
+                            },
+                            {
+                                "word": "on",
+                                "start": 89.93001,
+                                "end": 90.130005,
+                                "confidence": 0.97218585
+                            },
+                            {
+                                "word": "to",
+                                "start": 90.130005,
+                                "end": 90.25001,
+                                "confidence": 0.9208582
+                            },
+                            {
+                                "word": "the",
+                                "start": 90.25001,
+                                "end": 90.490005,
+                                "confidence": 0.9977755
+                            },
+                            {
+                                "word": "next",
+                                "start": 90.490005,
+                                "end": 90.990005,
+                                "confidence": 0.9908965
+                            },
+                            {
+                                "word": "worst",
+                                "start": 91.01001,
+                                "end": 91.51001,
+                                "confidence": 0.9949437
+                            },
+                            {
+                                "word": "skill",
+                                "start": 91.65001,
+                                "end": 92.15001,
+                                "confidence": 0.84528905
+                            },
+                            {
+                                "word": "right",
+                                "start": 92.450005,
+                                "end": 92.93001,
+                                "confidence": 0.8648319
+                            },
+                            {
+                                "word": "is",
+                                "start": 93.130005,
+                                "end": 93.29001,
+                                "confidence": 0.98846495
+                            },
+                            {
+                                "word": "the",
+                                "start": 93.29001,
+                                "end": 93.450005,
+                                "confidence": 0.9972594
+                            },
+                            {
+                                "word": "way",
+                                "start": 93.450005,
+                                "end": 93.61001,
+                                "confidence": 0.99589384
+                            },
+                            {
+                                "word": "that",
+                                "start": 93.61001,
+                                "end": 93.810005,
+                                "confidence": 0.88017076
+                            },
+                            {
+                                "word": "companies",
+                                "start": 93.810005,
+                                "end": 94.310005,
+                                "confidence": 0.4986999
+                            },
+                            {
+                                "word": "succeed",
+                                "start": 94.53001,
+                                "end": 94.810005,
+                                "confidence": 0.9754104
+                            },
+                            {
+                                "word": "using",
+                                "start": 94.810005,
+                                "end": 95.130005,
+                                "confidence": 0.9995592
+                            },
+                            {
+                                "word": "this",
+                                "start": 95.130005,
+                                "end": 95.41,
+                                "confidence": 0.9952241
+                            },
+                            {
+                                "word": "product",
+                                "start": 95.41,
+                                "end": 95.91,
+                                "confidence": 0.99453837
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

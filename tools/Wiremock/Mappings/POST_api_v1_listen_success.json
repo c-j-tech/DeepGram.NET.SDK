@@ -1,0 +1,20 @@
+{
+    "id": "635F9046-FBE4-4367-B29E-B0C5A0BF2D72",
+    "name": "api_v1_listen_success",
+    "request": {
+        "url": "/v1/listen",
+        "method": "POST"
+    },
+    "response": {
+        "status": 200,
+        "headers": {
+            "Content-Length": "18228",
+            "Date": "Fri, 15 Oct 2021 22: 03: 51 GMT",
+            "Content-Type": "text/plain; charset=utf-8"
+        },
+        "bodyFileName": "POST_api_v1_listen_success.json",
+        "transformers": [
+            "response-template"
+        ]
+    }
+}

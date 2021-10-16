@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31521.260
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CJTECH.DeepGram.NET.SDK", "src\CJTECH.DeepGram.NET.SDK\CJTECH.DeepGram.NET.SDK.csproj", "{D9D2274C-C414-4E64-80C5-57F1E89C6D98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo.ConsoleApplication", "src\Demos\Demo.ConsoleApplication\Demo.ConsoleApplication.csproj", "{310BCADE-0209-4CB6-84DE-CD045B212E26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9D2274C-C414-4E64-80C5-57F1E89C6D98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9D2274C-C414-4E64-80C5-57F1E89C6D98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9D2274C-C414-4E64-80C5-57F1E89C6D98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9D2274C-C414-4E64-80C5-57F1E89C6D98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{310BCADE-0209-4CB6-84DE-CD045B212E26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{310BCADE-0209-4CB6-84DE-CD045B212E26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{310BCADE-0209-4CB6-84DE-CD045B212E26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{310BCADE-0209-4CB6-84DE-CD045B212E26}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD687F22-968D-45CB-AA82-ED82FA6EB0BC}
+	EndGlobalSection
+EndGlobal
